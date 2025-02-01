@@ -1,9 +1,0 @@
-body {
-  font-family: system-ui, sans-serif;
-  background-image:url("https://nckugs.github.io/Web4CodePen/images/food-bg.jpg");
-  color: white;
-  height: 100vh;
-  margin: 0;
-  display: grid;
-  place-items: center;
-}
