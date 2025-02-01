@@ -3,7 +3,7 @@ $brandColor: darkorchid;
 body {
   font-family: system-ui, sans-serif;
   background: linear-gradient(to bottom, $brandColor, darken($brandColor, 15%));
-  background-image:url("https://nckugs.github.io/images/food-bg.jpg");
+  background-image:url("https://nckugs.github.io/Web4CodePen/images/food-bg.jpg");
   color: white;
   height: 100vh;
   margin: 0;
